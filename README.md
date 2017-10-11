@@ -39,7 +39,7 @@ Your personal website is recommended to have:
 - Inspiration
   - awwwards.com 
 - Helpful Resources
-  - Overall Review Sheet: http://tinyurl.com/hackschool-review-1 
+  - Overall Review Sheet: https://github.com/acm-hackschool-f17/Resources/blob/master/Hackschool-Session-1-README.md
   - HTML5 cheatsheet: http://www.hostingreviewbox.com/html5-cheat-sheet/ 
   - CSS Cheatsheet: https://makeawebsitehub.com/css3-mega-cheat-sheet/ 
 - Already have a personal website? Feel free to work on a website form of your resume!
